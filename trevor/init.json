@@ -5,6 +5,21 @@
                 "import_name": "Default",
                 "import_path": "v1",
                 "preview_url": "https://template.themeinwp.net/trevor/"
+            },
+            {
+                "import_name": "Agency",
+                "import_path": "v2",
+                "preview_url": "https://template.themeinwp.net/agency/"
+            },
+            {
+                "import_name": "Minimal Blog",
+                "import_path": "v3",
+                "preview_url": "https://template.themeinwp.net/minimal-blog/"
+            },
+            {
+                "import_name": "Minimal Photography",
+                "import_path": "v4",
+                "preview_url": "https://template.themeinwp.net/minimal-photography/"
             }
         ],
         "pro": []
