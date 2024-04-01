@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-04-01 11:28" -->
+	<!-- generator="WordPress/6.4.3" created="2024-04-01 11:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>PhotographyMax</title>
 	<link>https://live-demo.themeinwp.net/photographymax</link>
 	<description></description>
-	<pubDate>Mon, 01 Apr 2024 11:28:33 +0000</pubDate>
+	<pubDate>Mon, 01 Apr 2024 11:55:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://live-demo.themeinwp.net/</wp:base_site_url>
@@ -681,9 +681,9 @@
 		<wp:term>
 		<wp:term_id>61</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[primary-menu-right]]></wp:term_slug>
+		<wp:term_slug><![CDATA[primary-right-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[primary menu right]]></wp:term_name>
+		<wp:term_name><![CDATA[primary right menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>41</wp:term_id>
@@ -809,7 +809,7 @@
 	</wp:term>
 			<wp:term><wp:term_id>60</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[primary menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu-right]]></wp:term_slug><wp:term_name><![CDATA[primary menu right]]></wp:term_name>
+	<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-right-menu]]></wp:term_slug><wp:term_name><![CDATA[primary right menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>62</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[social menu]]></wp:term_name>
 </wp:term>
@@ -3173,7 +3173,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://live-demo.themeinwp.net/photographymax/2024/03/22/172/</link>
+		<link>https://live-demo.themeinwp.net/photographymax/2024/04/01/172/</link>
 		<pubDate>Fri, 22 Mar 2024 11:24:20 +0000</pubDate>
 		<dc:creator><![CDATA[live-demo.themeinwp.net]]></dc:creator>
 		<guid isPermaLink="false">https://live-demo.themeinwp.net/photographymax/2024/03/22/172/</guid>
@@ -3181,10 +3181,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-22 11:24:20]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-04-01 11:55:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-22 11:24:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-01 11:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-01 11:55:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[172]]></wp:post_name>
@@ -3194,7 +3194,7 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu-right"><![CDATA[primary menu right]]></category>
+										<category domain="nav_menu" nicename="primary-right-menu"><![CDATA[primary right menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -3227,10 +3227,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-22]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://live-demo.themeinwp.net/photographymax/2024/03/22/173/</link>
+		<link>https://live-demo.themeinwp.net/photographymax/2024/04/01/173/</link>
 		<pubDate>Fri, 22 Mar 2024 11:24:20 +0000</pubDate>
 		<dc:creator><![CDATA[live-demo.themeinwp.net]]></dc:creator>
 		<guid isPermaLink="false">https://live-demo.themeinwp.net/photographymax/2024/03/22/173/</guid>
@@ -3238,10 +3242,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-22 11:24:20]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-04-01 11:55:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-22 11:24:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-01 11:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-01 11:55:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[173]]></wp:post_name>
@@ -3251,7 +3255,7 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu-right"><![CDATA[primary menu right]]></category>
+										<category domain="nav_menu" nicename="primary-right-menu"><![CDATA[primary right menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -3284,10 +3288,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-22]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[About us]]></title>
-		<link>https://live-demo.themeinwp.net/photographymax/2024/03/22/about-us/</link>
+		<link>https://live-demo.themeinwp.net/photographymax/2024/04/01/about-us/</link>
 		<pubDate>Fri, 22 Mar 2024 11:24:20 +0000</pubDate>
 		<dc:creator><![CDATA[live-demo.themeinwp.net]]></dc:creator>
 		<guid isPermaLink="false">https://live-demo.themeinwp.net/photographymax/2024/03/22/about-us/</guid>
@@ -3295,10 +3303,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-22 11:24:20]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-04-01 11:55:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-22 11:24:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-01 11:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-01 11:55:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -3308,7 +3316,7 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu-right"><![CDATA[primary menu right]]></category>
+										<category domain="nav_menu" nicename="primary-right-menu"><![CDATA[primary right menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -3341,10 +3349,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-22]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Services]]></title>
-		<link>https://live-demo.themeinwp.net/photographymax/2024/03/22/services/</link>
+		<link>https://live-demo.themeinwp.net/photographymax/2024/04/01/services/</link>
 		<pubDate>Fri, 22 Mar 2024 11:24:20 +0000</pubDate>
 		<dc:creator><![CDATA[live-demo.themeinwp.net]]></dc:creator>
 		<guid isPermaLink="false">https://live-demo.themeinwp.net/photographymax/2024/03/22/services/</guid>
@@ -3352,10 +3364,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-22 11:24:20]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-04-01 11:55:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-22 11:24:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-22 11:24:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-01 11:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-01 11:55:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -3365,7 +3377,7 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu-right"><![CDATA[primary menu right]]></category>
+										<category domain="nav_menu" nicename="primary-right-menu"><![CDATA[primary right menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -3397,6 +3409,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-22]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
